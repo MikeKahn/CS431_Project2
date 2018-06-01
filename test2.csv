@@ -1,0 +1,2 @@
+Address,r/w,value,soft,hard,hit,evicted_pg#,dirty_evicted_page
+1C85,0,140,0,1,0,-1,0
